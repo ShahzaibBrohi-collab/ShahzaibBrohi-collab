@@ -3,6 +3,15 @@
   <!-- Dynamic Typing Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=220&section=header&text=Shahzaib%20Brohi&fontSize=52&fontAlignY=38&desc=Android%20%7C%20AI%20Systems%20%7C%20Creative%20Tech%20Developer&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%"/>
 
+  <br><br>
+
+  <!-- 3D Profile Avatar -->
+  <a href="https://github.com/ShahzaibBrohi-collab">
+    <img src="assets/avatar.jpg" width="135" height="135" style="border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 25px rgba(0, 240, 255, 0.6);" alt="Shahzaib Brohi Avatar"/>
+  </a>
+
+  <br><br>
+
   <p align="center">
     <a href="https://github.com/ShahzaibBrohi-collab">
       <img src="https://komarev.com/ghpvc/?username=ShahzaibBrohi-collab&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views"/>
